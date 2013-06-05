@@ -3,4 +3,4 @@ Joe Notes
 - HEAD is the commit that you are on
 - HEAD points to where you are in a given branch (ex: second commit, the history, another branch)
 - Index, which is sometimes called cache or staging). All commits pass through the index before they make it into the repository. It's a staging ground so to speak.
-- When would you not use commit -a
+
